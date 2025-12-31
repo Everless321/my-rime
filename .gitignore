@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Rime build files
+build/
+
+# User databases (contains personal input history)
+*.userdb/
+
+# Installation info (machine-specific)
+installation.yaml
+
+# User-specific data
+user.yaml
